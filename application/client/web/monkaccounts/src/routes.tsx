@@ -27,6 +27,7 @@ let routes: any = [
 { path: '/usermanagement', component: User },
 { path: '/profile', component: ProfilesettingsComponent },
 { path : '/createanentry', component: lazy(()=>import('./app/createanentry/createanentry')) },
+{ path : '/updateanentry', component: lazy(()=>import('./app/updateanentry/updateanentry')) },
 { path : '/createaccount', component: lazy(()=>import('./app/createaccount/createaccount')) },
 { path : '/updateaccount', component: lazy(()=>import('./app/updateaccount/updateaccount')) },
 { path : '/dashboard', component: lazy(()=>import('./app/dashboard/dashboard')) },

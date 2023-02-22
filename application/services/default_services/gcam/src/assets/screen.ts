@@ -10,16 +10,14 @@
     ,
 {"resources":"mobileCreateEntry", "role":"Guest"}
     ,
-{"resources":"updatetags", "role":"Guest"}
+{"resources":"updateanentry", "role":"Guest"}
     ,
-{"resources":"createtags", "role":"Guest"}
-    ,
-{"resources":"createAccount", "role":"Guest"}
+{"resources":"createaccount", "role":"Guest"}
     ,
 {"resources":"mobileCreateAccount", "role":"Guest"}
     ,
-{"resources":"updateAccount", "role":"Guest"}
+{"resources":"updateaccount", "role":"Guest"}
     ,
-{"resources":"Dashboard", "role":"Guest"}
+{"resources":"dashboard", "role":"Guest"}
     
 ]

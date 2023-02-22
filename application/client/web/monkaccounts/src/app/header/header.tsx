@@ -198,27 +198,7 @@ import React, { useState,useEffect } from 'react';
                                         
 <a id="i9imej" className="gpd-text" href='/mobilecreateentry'>mobileCreateEntry</a>
                                         
-</div>
-</div>
-</div>
-</div>):<></>}
-{check?(<div id="icrvgp" className="cell gpd-clm"  >
-                                                        <div id="i6vd27" className="gdp-row gpd-grid"  >
-                                                            <div id="inlo1l" className="cell gpd-clm"  >
-                                                                <i id="iyxitk" className="fa fa-folder-open" aria-hidden="true"></i>
-                                                            </div>
-                                                            <div id="iytw4t" className="cell gpd-clm" >
-                                                                <a id="i9imej" className="gpd-text" href="#gepitemtagsmanager" data-toggle="collapse" data-parent="#MainMenu">gepitemtagsmanager <i className="fa fa-caret-down"></i></a>
-                                                            </div>
-                                                        </div>
-                                                    </div>):<></>}
-                                                    {check?( <div className="collapse" id="gepitemtagsmanager">
-                                                        <div id="icrvgp" className="cell gpd-clm">
-                                                            <div id="i6vd27" className="gdp-row gpd-grid">
-                                                                <div id="iytw4t" className="cell gpd-clm">
-<a id="i9imej" className="gpd-text" href='/updatetags'>updatetags</a>
-                                        
-<a id="i9imej" className="gpd-text" href='/createtags'>createtags</a>
+<a id="i9imej" className="gpd-text" href='/updateanentry'>updateanentry</a>
                                         
 </div>
 </div>
@@ -238,13 +218,13 @@ import React, { useState,useEffect } from 'react';
                                                         <div id="icrvgp" className="cell gpd-clm">
                                                             <div id="i6vd27" className="gdp-row gpd-grid">
                                                                 <div id="iytw4t" className="cell gpd-clm">
-<a id="i9imej" className="gpd-text" href='/createaccount'>createAccount</a>
+<a id="i9imej" className="gpd-text" href='/createaccount'>createaccount</a>
                                         
 <a id="i9imej" className="gpd-text" href='/mobilecreateaccount'>mobileCreateAccount</a>
                                         
-<a id="i9imej" className="gpd-text" href='/updateaccount'>updateAccount</a>
+<a id="i9imej" className="gpd-text" href='/updateaccount'>updateaccount</a>
                                         
-<a id="i9imej" className="gpd-text" href='/dashboard'>Dashboard</a>
+<a id="i9imej" className="gpd-text" href='/dashboard'>dashboard</a>
                                         
 </div>
 </div>

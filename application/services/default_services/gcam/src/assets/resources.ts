@@ -495,7 +495,7 @@ export const resource_types = [
     }]
   },
   {
-    "resource_name": "updatetags",
+    "resource_name": "updateanentry",
     "resource_type": "screen",
     "roles": [
       "admin", "user"
@@ -520,32 +520,7 @@ export const resource_types = [
     }]
   },
   {
-    "resource_name": "createtags",
-    "resource_type": "screen",
-    "roles": [
-      "admin", "user"
-    ],
-    "components": [{
-      "label_1425": {
-        "id": "878979",
-        "roles": [ "admin" ]
-      },
-      "textbox_6272": {
-        "id": "135979",
-        "roles": [ "admin" ]
-      },
-      "label_2437": {
-        "id": "343979",
-        "roles": [ "admin" ]
-      },
-      "dropdown_73821": {
-        "id": "738291",
-        "roles": [ "admin" ]
-      }
-    }]
-  },
-  {
-    "resource_name": "createAccount",
+    "resource_name": "createaccount",
     "resource_type": "screen",
     "roles": [
       "admin", "user"
@@ -595,7 +570,7 @@ export const resource_types = [
     }]
   },
   {
-    "resource_name": "updateAccount",
+    "resource_name": "updateaccount",
     "resource_type": "screen",
     "roles": [
       "admin", "user"
@@ -620,7 +595,7 @@ export const resource_types = [
     }]
   },
   {
-    "resource_name": "Dashboard",
+    "resource_name": "dashboard",
     "resource_type": "screen",
     "roles": [
       "admin", "user"
